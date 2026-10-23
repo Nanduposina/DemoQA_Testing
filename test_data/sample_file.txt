@@ -1,0 +1,2 @@
+# Create sample file for upload test
+echo "This is a test file for automated testing." > test_data/sample_file.txt
